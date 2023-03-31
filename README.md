@@ -12,7 +12,7 @@
 - `http://196.160.1.59:8989/` (with trailing `/`)
 - Any format with spaces.
 
-*Note*: If you have more than 3 shows, the script will randomly pick 3 and display different shows.
+*Note*: If you have more than 3 episodes, the script will randomly pick 3 and display different Episodes Randomly.
 
 ## Disclaimer
 
