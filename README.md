@@ -1,5 +1,5 @@
 # Get Sonarr New Episodes
-### Gets New Episodes when they come out and displays them in  widget.
+### Gets New Episodes when they come out and displays them in the widget.
 
 **Prerequisites**: Make sure to fill in your API Key and your Sonarr Server at the top of the script.
 
